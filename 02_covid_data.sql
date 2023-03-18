@@ -1,4 +1,3 @@
--- Covid-19 data analyses
 
 -- Check whether all tables have the same number of rows
 select count(*) cases_count from cases;
