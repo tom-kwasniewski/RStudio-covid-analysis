@@ -6,5 +6,6 @@ Covid-19 analysis includes:
 - year to year analysis for one country (cases, deaths, vaccinations, hospitalized patients) - timeseries
 - timeseries - comaparison of the situation in different European countries
 - correlation - which parameters have affected to death count and cases count?
+- data analysis in sql
 
 Data taken from: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
